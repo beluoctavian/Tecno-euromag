@@ -45,15 +45,33 @@
 	    </td>
 	    <td>SOITAAB</td>
 	</tr>
-	<tr>
-	    <td>5</td>
-	    <td>
-		<a href="./pdf/products/<?php echo $_GET['category']; ?>/Over_Plasma_Red.pdf" target="_blank">
-		    <h4>Plasma Red / Plasma Nova <i class="fa fa-file-pdf-o"></i></h4>
-		</a>
-	    </td>
-	    <td>SOITAAB</td>
-	</tr>
+    <tr>
+        <td>5</td>
+        <td>
+            <a href="./pdf/products/<?php echo $_GET['category']; ?>/Over_Plasma_Red.pdf" target="_blank">
+                <h4>Plasma Red / Plasma Nova <i class="fa fa-file-pdf-o"></i></h4>
+            </a>
+        </td>
+        <td>SOITAAB</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>
+            <a href="./pdf/products/<?php echo $_GET['category']; ?>/BR_89597D_R0_HyPrecWJ.pdf" target="_blank">
+                <h4>Masina de debitat cu apa: HyPrecision Waterjet <i class="fa fa-file-pdf-o"></i></h4>
+            </a>
+        </td>
+        <td>SOITAAB</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>
+            <a href="./pdf/products/<?php echo $_GET['category']; ?>/GU_89212Mr4.pdf" target="_blank">
+                <h4>Retrofit / Modernizare masini de debitat cu plasma Hypertherm <i class="fa fa-file-pdf-o"></i></h4>
+            </a>
+        </td>
+        <td>SOITAAB</td>
+    </tr>
     </tbody>
 </table>
 </div>
